@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Eu sou Thiago dos Santos</h2><br><br>📚 Atualmente estou aprendendo unity e unreal</p>
+<h2 align="left">Eu sou Thiago dos Santos</h2><br>📚 Atualmente estou aprendendo unity e unreal</p>
 
 ###
 
