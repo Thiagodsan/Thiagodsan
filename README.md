@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.imgur.com/zPepxrV.gif"  />
+  <img height="350" src="https://i.imgur.com/zPepxrV.gif"  />
 </div>
 
 ###
@@ -24,11 +24,11 @@
 
 ###
 
-<h2 align="left">Eu sou Thiago dos Santos</h2><br>📚 Atualmente estou aprendendo unity e unreal</p>
+<h2 align="left">Eu sou Thiago dos Santos</h2><br>📚 Atualmente estou aprendendo Unity e Unreal</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meu estatus:</h3>
 
 ###
 
